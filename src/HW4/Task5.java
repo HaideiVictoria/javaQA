@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Hw4 {
+public class Task5 {
     public static void main(String[] args) {
        //Есть одномерный массив из 10 элементов, заполнен- ный случайными числами. Пользователь вводит с клавиатуры число.
         // Программа показывает есть ли такое число в созданном до этого массиве.
