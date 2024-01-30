@@ -38,15 +38,15 @@ public class Task1 {// За допомогою java.util.Random програма
                 System.out.println("Your number is too big. Please, try again");
             }
             else {
-                System.out.println("Congratulations"+name+"!");
+                System.out.println("Congratulations" +" "+name+"!");
                 break;
 
-        }}System.out.print("Ваші спроби: ");
-        for (int i = 0; i < attemptCount; i++) {
-            System.out.print(attempts[i] + " ");
+        }}
+
+
 
     }
-}}
+}
 
 
 
